@@ -1,0 +1,16 @@
+config.json
+.env
+.venv/
+models/
+runtime/
+runtime.zip
+logs/
+temp/
+__pycache__/
+*.py[cod]
+*.pid
+*.lock
+*.flag
+*.sqlite3*
+*.part
+branding/telegraph-account.json
